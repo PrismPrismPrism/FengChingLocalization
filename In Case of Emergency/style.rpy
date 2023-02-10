@@ -1,0 +1,9 @@
+translate schinese python:
+    gui.text_font = "tl/schinese/fonts/MiSans-Regular.ttf"
+    gui.choice_button_text_font = gui.text_font
+    gui.name_text_font = "gui/LibreBaskerville-Bold.ttf"
+    gui.interface_text_font = "tl/schinese/fonts/cangeryuyang-W04.ttf"
+    gui.button_text_font = "tl/schinese/fonts/cangeryuyang-W04.ttf"
+    gui.label_text = "tl/schinese/fonts/cangeryuyang-W04.ttf"
+    gui.system_font = "tl/schinese/fonts/MiSans-Regular.ttf"
+    style.default.font = "tl/schinese/fonts/cangeryuyang-W04.ttf"
