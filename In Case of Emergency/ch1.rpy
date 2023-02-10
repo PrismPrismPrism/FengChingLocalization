@@ -11,13 +11,13 @@ translate schinese chapter1_695a9788:
 
     # "The sky is appropriately miserable. Thick clouds are draped across it, like you're looking out from the inside of a snow globe wrapped in cotton."
     "天色阴沉得恰到好处。你看着低压着的厚重的云，仿佛被囿在一个裹着棉花团的雪花水晶球之中。"
-
+##天空适当阴郁。
 # game/ch1.rpy:10
 translate schinese chapter1_114b55a0:
 
     # "Only a handful of people have shown up, including you and your sister. Mom hasn't arrived yet."
     "算上你和你姐姐，到场的人用一只手也能数得过来。妈妈还在路上。"
-
+##……到场的人屈指可数。（正好成语）
 # game/ch1.rpy:13
 translate schinese chapter1_50ba5bea:
 
@@ -29,7 +29,7 @@ translate schinese chapter1_c653b0eb:
 
     # "Turns out loneliness can be hereditary."
     "原来形单影只也是可以被遗传的。"
-
+##原来形单影只也可以被遗传。
 # game/ch1.rpy:19
 translate schinese chapter1_efaef0ab:
 
@@ -47,19 +47,19 @@ translate schinese chapter1_31bbc8ba:
 
     # mf "In fact, you are {i}obligated{/i} to share that you're sad."
     mf "事实上，你有{i}义务{/i}去分享你的悲伤。"
-
+##毕竟你{i}应该{/i}显露你的悲伤。
 # game/ch1.rpy:24
 translate schinese chapter1_d6be4ead:
 
     # "You exhale slowly and wait for the tears to fall."
     "你放缓了呼吸，等待着泪腺分泌出你的情感。"
-
+##你轻轻呼气，等着眼泪自己流出。
 # game/ch1.rpy:25
 translate schinese chapter1_a20cefa7:
 
     # "..."
     "……"
-
+##...
 # game/ch1.rpy:26
 translate schinese chapter1_31a6d1a7:
 
@@ -71,7 +71,7 @@ translate schinese chapter1_f7c2f1a3:
 
     # "And wait."
     "又等。"
-
+##——又等。
 # game/ch1.rpy:28
 translate schinese chapter1_baa85a5a:
 
@@ -83,7 +83,7 @@ translate schinese chapter1_777b7093:
 
     # mf "Toxic masculinity much? You know it's okay to cry, right?"
     mf "你被不健康的男子气概给绑架了吧？你知道哭没关系，对不对？"
-
+##太受你的『男子气概』影响了？你知道哭没关系的，对吧？
 # game/ch1.rpy:30
 translate schinese chapter1_b5091e31:
 
@@ -317,7 +317,7 @@ translate schinese crying_657e0235:
 
     # mf "You should definitely cry."
     mf ""
-
+##你应该哭出来。
 # game/ch1.rpy:107
 translate schinese crying_32724ca0:
 
