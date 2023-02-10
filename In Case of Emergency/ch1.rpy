@@ -1108,926 +1108,926 @@ translate schinese kyrielook_e28632b6:
 translate schinese day1_14a6a5ce:
 
     # a "So, the four of you are working as a group?"
-    a ""
+    a "所以，你们四个人是一个团队吗？"
 
 # game/ch1.rpy:302
 translate schinese day1_26eefe0a:
 
     # c "Yes."
-    c ""
+    c "嗯。"
 
 # game/ch1.rpy:303
 translate schinese day1_8a8c7356:
 
     # "Cedric sends a curious-but-polite look your way. He is — {i}was?{/i} — your best friend for most of your childhood."
-    ""
+    "Cedric对你投来好奇而礼貌的眼神。他是——{i}曾经是？{/i}——你童年里最好的朋友。"
 
 # game/ch1.rpy:304
 translate schinese day1_18e6394b:
 
     # "You haven't talked much since entering college. You're acutely aware that everyone in the group appears to know each other except you."
-    ""
+    "上大学后你并不怎么说话，你也的确意识到在这小组里大家似乎都互相认识，除了你。"
 
 # game/ch1.rpy:307
 translate schinese day1_042d3e76:
 
     # "The old wolf looks at you over his circular glasses."
-    ""
+    "老狼透过他的圆形镜框望向你。"
 
 # game/ch1.rpy:308
 translate schinese day1_4153ee71:
 
     # a "You're new. It's usually these three troublemakers together."
-    a ""
+    a "新生，这三个事多的家伙们一般都会被分在一块。"
 
 # game/ch1.rpy:311
 translate schinese day1_3a175b04:
 
     # l "Is that why you made this a four-person project? That blows. Remember how much fun we had last summer, Rom?"
-    l ""
+    l "这就是为什么你把这做成了一个四人项目？没劲。Rom，还记得上个夏天我们干的那些乐子吗？"
 
 # game/ch1.rpy:312
 translate schinese day1_e7993d19:
 
     # a "Hmm... Yes, I remember your final presentation on pre-post-modern art in the age of Man. Very fascinating."
-    a ""
+    a "嗯...我记得你最后那次关于人类纪中预后现代艺术的演讲，非常迷人。"
 
 # game/ch1.rpy:313
 translate schinese day1_4b3fa0bc:
 
     # a "I also remember spending an hour after class cleaning up after your whipped cream 'jizz cannon.'"
-    a ""
+    a "我还记得你们用完喷射掼奶油的『精液大炮』后，我花了一个小时的时间来清理整间教室。"
 
 # game/ch1.rpy:314
 translate schinese day1_b8b2e335:
 
     # a "The professor using the room in the fall came back to a brand new ant supercolony based in their classroom."
-    a ""
+    a "在这上课的教授秋天回来时就像进了一个崭新的惊天蚁巢。"
 
 # game/ch1.rpy:318
 translate schinese day1_dc4a569f:
 
     # w "I told you we should have used toothpaste."
-    w ""
+    w "我就跟你讲我们应该用牙膏的。"
 
 # game/ch1.rpy:320
 translate schinese day1_4c7444b5:
 
     # c "Just to clarify, I worked on the slides. Not the performance portion."
-    c ""
+    c "澄清一下，我只负责了幻灯片。表演那部分不是我负责的。"
 
 # game/ch1.rpy:322
 translate schinese day1_c74fe8be:
 
     # a "Which is why I have chosen a different assignment this summer for your life skills education requirement. There will be no presentation at the end of this session."
-    a ""
+    a "这就是我这次采取了不同协作方式的原因。本学期生活技能教育要求里不会有『演讲』这一项。"
 
 # game/ch1.rpy:323
 translate schinese day1_e5457641:
 
     # a "Instead, I will ask that the four of you think beyond yourselves. Learn to take care of an object other than yourselves."
-    a ""
+    a "并且，我将要求你们学会照看一个物品，而不是你们自己。"
 
 # game/ch1.rpy:324
 translate schinese day1_b5dcbfb2:
 
     # a "Return the object unharmed at the end of the four weeks, and you will pass a major portion of this class."
-    a ""
+    a "四周后安然无恙地交回物品，你们就能通过这堂课的主要部分。"
 
 # game/ch1.rpy:325
 translate schinese day1_140fc776:
 
     # a "Are you ready?"
-    a ""
+    a "准备好了吗？"
 
 # game/ch1.rpy:326
 translate schinese day1_cbe4a17b:
 
     # "He holds out a black plastic bag, its contents just out of everyone's line of sight."
-    ""
+    "他拿出一个黑色塑料袋，谁也看不见里面是什么。"
 
 # game/ch1.rpy:329
 translate schinese day1_a1ae50b8:
 
     # l "So, who wants to pick?"
-    l ""
+    l "那么，谁想去拿？"
 
 # game/ch1.rpy:331
 translate schinese day1_f8d43ec9:
 
     # w "I don't care."
-    w ""
+    w "随便。"
 
 # game/ch1.rpy:333
 translate schinese day1_9d1f29fb:
 
     # c "Why don't we let Kieran pick?"
-    c ""
+    c "为什么Kieran不试试呢？"
 
 # game/ch1.rpy:334
 translate schinese day1_2c06a2db:
 
     # "Cedric looks at you expectantly, and you shrug. Why not?"
-    ""
+    "Cedric期待地看着你，你耸了耸肩。好哇，为什么不呢？"
 
 # game/ch1.rpy:335
 translate schinese day1_ab50b12d:
 
     # "The professor holds out the bag to you. Inside, your hand grasps around something bumpy and rubbery."
-    ""
+    "狼教授朝你递来黑色袋子。你的手伸了进去，握住了某个有凸起的橡胶东西。"
 
 # game/ch1.rpy:337
 translate schinese day1_2c8bfe01:
 
     # l "If he picks something lame, can I swap groups?"
-    l ""
+    l "要是他拿出了什么怪东西，那我能不能换组？"
 
 # game/ch1.rpy:340
 translate schinese day1_a79caf94:
 
     # w "Sure, if you can find a group willing to take you."
-    w ""
+    w "当然，前提是你能找到一个同意你加入的小组。"
 
 # game/ch1.rpy:343
 translate schinese day1_7cfb9a10:
 
     # c concern "No one's going to be swapping groups, okay?"
-    c concern ""
+    c concern "没人会换组的，懂吗？"
 
 # game/ch1.rpy:344
 translate schinese day1_90084732:
 
     # n_none "You pull out the item in your hands and show it to the group. Clenched in your fist is a hot pink dildo, with realistic veins bulging along its shaft, balls and all."
-    n_none ""
+    n_none "你取出了物品，展示给了组员。握在你手中的是一个火辣的粉红假阴茎，茎部和阴囊附近青筋暴起。"
 
 # game/ch1.rpy:348
 translate schinese day1_f461e488:
 
     # "It's really quite graphic."
-    ""
+    "就好像真的一样。"
 
 # game/ch1.rpy:350
 translate schinese day1_4c36f426:
 
     # a "Ah. The Phallus. A fascinating object for inquiry and care."
-    a ""
+    a "啊，阳具。不错的测验照看物。"
 
 # game/ch1.rpy:351
 translate schinese day1_51a21096:
 
     # "Across the room, a group of girls giggle in your direction."
-    ""
+    "房间对面的那群女孩朝你呵呵笑。"
 
 # game/ch1.rpy:352
 translate schinese day1_5d6a51e2:
 
     # "The three other members of your group stare at it slack-jawed. You're still holding it in your iron grip."
-    ""
+    "队里其他三人瞠目结舌，你还稳稳地握着它。"
 
 # game/ch1.rpy:355
 translate schinese day1_c973c07f:
 
     # k "Relax, guys, it's just a dildo."
-    k ""
+    k "放轻松，伙计们，只是一个硅胶阳具。"
 
 # game/ch1.rpy:357
 translate schinese day1_d0167387:
 
     # "You gently set down the dildo on your desk."
-    ""
+    "你轻轻把它放在了书桌上。"
 
 # game/ch1.rpy:358
 translate schinese day1_027b11c3:
 
     # k "Haha, weird, huh?"
-    k ""
+    k "哈哈，挺奇怪的，不是吗？"
 
 # game/ch1.rpy:359
 translate schinese day1_7705eac5:
 
     # l neutral "Rom, and I thought you said this summer class was going to be different! Is this for me?"
-    l neutral ""
+    l neutral "Rom，我还以为这次夏日课程会有什么不同的！这就是不同吗？"
 
 # game/ch1.rpy:360
 translate schinese day1_bf705752:
 
     # w annoyed "This has to be a punishment for the crap you pulled last year."
-    w annoyed ""
+    w annoyed "这是对你们上次的惩罚。"
 
 # game/ch1.rpy:361
 translate schinese day1_6b8fed6f:
 
     # a "I can assure you that everything in this bag is a real and valid assignment."
-    a ""
+    a "不过袋子里的东西包括分配的任务都是货真价实的。"
 
 # game/ch1.rpy:362
 translate schinese day1_db42fccf:
 
     # l surprisen "So when you say you want us to return it unharmed, does that mean {i}unused{/i}?"
-    l surprisen ""
+    l surprisen "所以我在想，你说的『安然无恙』，是不是指{i}『没被用过』{/i}？"
 
 # game/ch1.rpy:364
 translate schinese day1_b4c98c45:
 
     # c concern "Ooookay, so we're going to make sure that Luke takes the Dick last."
-    c concern ""
+    c concern "哎——那我们就该让Luke最后再保管它了。"
 
 # game/ch1.rpy:365
 translate schinese day1_e9450f0b:
 
     # w neutral "If Luke is going last, I want it second to last."
-    w neutral ""
+    w neutral "如果Luke最后，我想倒数第二个。"
 
 # game/ch1.rpy:366
 translate schinese day1_d728ef47:
 
     # c neutral "Well, I can't take it this week because I'm busy."
-    c neutral ""
+    c neutral "其实，我这周有点忙的。"
 
 # game/ch1.rpy:367
 translate schinese day1_719c4733:
 
     # "The three of them turn to you expectantly. You kind of wish people would stop doing that."
-    ""
+    "他们三个都期待地望着你，让你有点希望他们能快点停下。"
 
 # game/ch1.rpy:368
 translate schinese day1_bebc9735:
 
     # k "Sure. I'll take it the first week."
-    k ""
+    k "好吧，我来第一周吧。"
 
 # game/ch1.rpy:370
 translate schinese day1_1f3ff3d3:
 
     # a "Wonderful. However you gentlemen decide to divide up the workload, make sure you do so evenly. The goal is not only to care for the object, but to interrogate your relationship to it."
-    a ""
+    a "真不错。反正你们无论怎样分任务，保证你们每个人都分得平均就好。目的不仅仅是保管物体，还要审视你和它的关系。"
 
 # game/ch1.rpy:372
 translate schinese day1_c6dcd256:
 
     # c "So is it supposed to be a dick or a dildo?"
-    c ""
+    c "所以它就一定要是个硅胶棍子或者一个屌？"
 
 # game/ch1.rpy:373
 translate schinese day1_c4236e09:
 
     # l surprisen "But if we're {i}supposed{/i} to take care of it, aren't we doing the opposite of interrogating that relationship? Doesn't an assignment foreclose the multitude of ways I could interact with the object?"
-    l surprisen ""
+    l surprisen "但如果我们是{i}应该{/i}保管它，这不是在反着来吗？这项『任务』本身不就限制了我和它交互的方式吗？"
 
 # game/ch1.rpy:374
 translate schinese day1_fe02d0e4:
 
     # w upset "Do {i}not{/i} fuck our final project."
-    w upset ""
+    w upset "{i}别{/i}毁了我们的项目。"
 
 # game/ch1.rpy:379
 translate schinese day1_7c725736:
 
     # a "Well, I'll leave you four be."
-    a ""
+    a "我呢就先走了。"
 
 # game/ch1.rpy:380
 translate schinese day1_36ab85be:
 
     # a "If you need to get in contact with me outside of class, remember: do not email me."
-    a ""
+    a "如果要课后找我，记得别用邮箱。"
 
 # game/ch1.rpy:381
 translate schinese day1_dcf7dd5d:
 
     # a "I will not respond to any emails or telephone calls. I have cut every wire in my office and cannot read any of your messages."
-    a ""
+    a "我不会回复邮箱或者电话，因为我已经把我办公室里的网线剪完了，我看不到你们的信息。"
 
 # game/ch1.rpy:382
 translate schinese day1_b2ef0c33:
 
     # a "Please come to my office hours or slide a note under my door. I'll be available after class for the next couple of hours."
-    a ""
+    a "请在我值班的时候直接来找我，或者从门缝里给我滑个纸条。下课后就有空看。"
 
 # game/ch1.rpy:383
 translate schinese day1_81f51a47:
 
     # a "Good luck!"
-    a ""
+    a "各位好运！"
 
 # game/ch1.rpy:388
 translate schinese wesmeetinggrass_394c9668:
 
     # "The Dick is securely zipped into your backpack alongside your laptop and notebooks."
-    ""
+    "我偷偷地把屌、笔记本和台式笔记本放进了我的背包里。"
 
 # game/ch1.rpy:389
 translate schinese wesmeetinggrass_40e4103c:
 
     # "It's a shame it's summer; you think you could have wrapped it in a jacket or a scarf for more padding."
-    ""
+    "可惜现在是夏天，否则你可以把它塞进夹克衫或者围巾里的。"
 
 # game/ch1.rpy:392
 translate schinese wesmeetinggrass_5596ca32:
 
     # ac "As though you would wear anything other than a T-shirt and shorts during the winter."
-    ac ""
+    ac "就好像你在冬天除了T恤和短裤什么都穿。"
 
 # game/ch1.rpy:393
 translate schinese wesmeetinggrass_fc0820f8:
 
     # "At least the weather is a minor consolation for being stuck here another four weeks. You might even go down to the beach and enjoy your last moments before you're officially no longer a college student."
-    ""
+    "至少后四星期天气都还不错，在毕业之前都能去沙滩好好享受一番。 "
 
 # game/ch1.rpy:394
 translate schinese wesmeetinggrass_0539f537:
 
     # "Just you and the real world. Raw dogging it. On your hands and knees for the job search, bent over the kitchen counter for minimum wage."
-    ""
+    "在现实世界里苟且偷生，浑浑噩噩，卑躬屈膝找工作，最后在厨房里混个最低的薪水。"
 
 # game/ch1.rpy:397
 translate schinese wesmeetinggrass_773dd6b7:
 
     # mf "Not that taking dick is a negative thing, of course. It's just a patriarchal turn of phrase. The point is that we're {i}all{/i} fucked."
-    mf ""
+    mf "当然，不是带着假阳具算是一件坏事——那个只是某种父权的象征——而是我们现在{i}都{/i}要挨一次操了。"
 
 # game/ch1.rpy:399
 translate schinese wesmeetinggrass_920691b3:
 
     # "Yikes."
-    ""
+    "呃啊。"
 
 # game/ch1.rpy:400
 translate schinese wesmeetinggrass_864ea468:
 
     # "You're so lost in thought that you don't notice the other person approaching you."
-    ""
+    "你想得太多太多，忽视了向你走来的人。"
 
 # game/ch1.rpy:405
 translate schinese wesmeetinggrass_25d7f32d:
 
     # "You're knocked onto your ass and flat on your back. You can actually feel something stiff hit your tailbone through the canvas of your bag."
-    ""
+    "你被撞倒在地，躺在路上。有什么硬质东西顶到了你的尾巴骨。"
 
 # game/ch1.rpy:408
 translate schinese wesmeetinggrass_0a53fa8e:
 
     # kn "It's called your coccyx. You remember it because it sounds like—"
-    kn ""
+    kn "那叫尾椎。你记得这名是因为这听起来就像——"
 
 # game/ch1.rpy:411
 translate schinese wesmeetinggrass_9a538faf:
 
     # w "Oh, shit. Was it on you right now?"
-    w ""
+    w "噢看看这，那玩意现在在你手上吗？"
 
 # game/ch1.rpy:412
 translate schinese wesmeetinggrass_249b2034:
 
     # k "Wha—?"
-    k ""
+    k "什——？"
 
 # game/ch1.rpy:413
 translate schinese wesmeetinggrass_2ec4bf46:
 
     # w questioning "The Dick."
-    w questioning ""
+    w questioning "硅胶阳具。"
 
 # game/ch1.rpy:415
 translate schinese wesmeetinggrass_ba26977c:
 
     # "It takes you a minute to register what's going on. Oh, right — there's a dildo in your backpack that's also school property."
-    ""
+    "你花了点时间回忆。噢没错，是有一个硅胶阳具在你背包里——那同样也是学校财产。"
 
 # game/ch1.rpy:416
 translate schinese wesmeetinggrass_dd9e8fa6:
 
     # k "Yeah, I have it. It's in my bag, which I landed on— {i}Shit{/i}!"
-    k ""
+    k "是，它就在我背包里，我把它放在了——{i}妈的我找一下{/i}!"
 
 # game/ch1.rpy:417
 translate schinese wesmeetinggrass_c4343e72:
 
     # "You frantically unzip your bag and search through your belongings. It's easy enough to locate the massive hot pink dildo in your backpack."
-    ""
+    "你立马拉开了你的包，翻开其他物品，找到背包里的热辣大粉鸟。"
 
 # game/ch1.rpy:418
 translate schinese wesmeetinggrass_be00aa65:
 
     # "After all, it's not like you keep a whole library of dildos in there. It would be crazy if you just kept pulling a rainbow of sex toys out like a clown pulling on a handkerchief."
-    ""
-
+    "这里面毕竟没有那么多鸟。如果从里面能像小丑拉手绢一样倒出一堆彩虹鸟，那得多疯狂。"
+#啥是pull on a handkerchief（
 # game/ch1.rpy:419
 translate schinese wesmeetinggrass_42912c8c:
 
     # "Why would you even carry around that many dildos? Maybe if you were a clown and that was part of your act. No, that would get you arrested."
-    ""
+    "不过为什么你会拿一堆彩虹鸟？也许你是一个小丑然后那是你的道具？不不不，那样你会被逮捕的。"
 
 # game/ch1.rpy:420
 translate schinese wesmeetinggrass_f0650ab6:
 
     # "This is a really interesting train of thought."
-    ""
+    "真是一段非常有意思的思维训练。"
 
 # game/ch1.rpy:423
 translate schinese wesmeetinggrass_aec16f90:
 
     # "The world must know about your clown cocks. "
-    ""
+    "这世上的人一定都得听听你小鸟依人的笑话。"
 
 # game/ch1.rpy:424
 translate schinese wesmeetinggrass_1c6150e7:
 
     # k "Man, wouldn't it be crazy if I had a thousand dildos in here, so I couldn't find the one important one?"
-    k ""
+    k "天，要我有一千多个鸟儿，那得多疯狂？到时候我肯定找都找不到。"
 
 # game/ch1.rpy:426
 translate schinese wesmeetinggrass_32b02341:
 
     # "Wes raises his eyebrows."
-    ""
+    "Wes抬了抬眉毛。"
 
 # game/ch1.rpy:427
 translate schinese wesmeetinggrass_a9d71de6:
 
     # w questioning "Yeah, it would be. Is there something you're not telling me?"
-    w questioning ""
+    w questioning "是，挺有意思的。你有什么没告诉我的秘密么？"
 
 # game/ch1.rpy:428
 translate schinese wesmeetinggrass_6fb04ec8:
 
     # k "No, I was saying, {i}hypothetically{/i}, if I was a clown and my trick involved pulling endless dicks out of my bag."
-    k ""
+    k "没有，只是{i}假设{/i}：我是个小丑，要表演从我的袋子里放出无穷无尽的鸟。"
 
 # game/ch1.rpy:429
 translate schinese wesmeetinggrass_3a93e07e:
 
     # w neutral "Right."
-    w neutral ""
+    w neutral "哦。"
 
 # game/ch1.rpy:430
 translate schinese wesmeetinggrass_b7ab27ee:
 
     # k "That would be weird."
-    k ""
+    k "那应该会很怪。"
 
 # game/ch1.rpy:431
 translate schinese wesmeetinggrass_7bb30ee9:
 
     # w "Yeah. And maybe illegal."
-    w ""
+    w "没错，再加点钱可能就成非法内容了。"
 
 # game/ch1.rpy:432
 translate schinese wesmeetinggrass_26977154:
 
     # "This guy gets it."
-    ""
+    "大虎子懂了我的意思。"
 
 # game/ch1.rpy:433
 translate schinese wesmeetinggrass_9246470e:
 
     # k "Probably."
-    k ""
+    k "也许吧。"
 
 # game/ch1.rpy:434
 translate schinese wesmeetinggrass_0d04128e:
 
     # w "..."
-    w ""
+    w "..."
 
 # game/ch1.rpy:435
 translate schinese wesmeetinggrass_7127968c:
 
     # w "Maybe if you were a sex clown, then it would be okay."
-    w ""
+    w "也许你是一个色情小丑就没关系了。"
 
 # game/ch1.rpy:436
 translate schinese wesmeetinggrass_2cb4f78a:
 
     # k "Like if that was my job?"
-    k ""
+    k "比如那是我的工作？"
 
 # game/ch1.rpy:437
 translate schinese wesmeetinggrass_ec923dd5:
 
     # w annoyed "Yeah. Maybe like a weird bacholerette party thing. Or bachelor party, I guess."
-    w annoyed ""
+    w annoyed "对。可能就像一个怪异的女单身人派对——或者男性的，我猜。"
 
 # game/ch1.rpy:438
 translate schinese wesmeetinggrass_0f4a0cb5:
 
     # w neutral "It wouldn't be weird if you were getting paid for it."
-    w neutral ""
+    w neutral "因此得钱可能还挺怪的。"
 
 # game/ch1.rpy:441
 translate schinese wesmeetinggrass_9dea4e82:
 
     # k "I don't know if being a professional sex clown is less weird than being an unpaid sex clown."
-    k ""
+    k "不知道一个专业色情小丑是不是比一个无偿色情小丑还奇怪。"
 
 # game/ch1.rpy:443
 translate schinese wesmeetinggrass_7d25d38c:
 
     # "Wes shrugs."
-    ""
+    "Wes耸了耸肩。"
 
 # game/ch1.rpy:444
 translate schinese wesmeetinggrass_127e38ba:
 
     # w neutral "You're probably right. I'm not a sex clown expert."
-    w neutral ""
+    w neutral "或许你是懂的，我不算什么色情小丑专家。"
 
 # game/ch1.rpy:447
 translate schinese wesmeetinggrass_e6900b10:
 
     # k "Why would getting paid to be a sex clown make it less weird?"
-    k ""
+    k "为什么付费的就更正常了？"
 
 # game/ch1.rpy:449
 translate schinese wesmeetinggrass_7d25d38c_1:
 
     # "Wes shrugs."
-    ""
+    "Wes又耸了耸肩。"
 
 # game/ch1.rpy:450
 translate schinese wesmeetinggrass_d84fb73b:
 
     # w neutral "Because then you're a professional, you know? People value you enough to give you money to do your thing."
-    w neutral ""
+    w neutral "因为你专业。知道吗，人们因为喜欢你而给你钱，让你一直做下去。"
 
 # game/ch1.rpy:451
 translate schinese wesmeetinggrass_2c420a83:
 
     # k "But which came first, the money or the social value?"
-    k ""
+    k "但哪一个更重要呢，钱还是社会价值？"
 
 # game/ch1.rpy:453
 translate schinese wesmeetinggrass_343eaf3a:
 
     # w "Uh... what?"
-    w ""
+    w "呃...？"
 
 # game/ch1.rpy:455
 translate schinese wesmeetinggrass_0931fecc:
 
     # k "I... nevermind. We're getting distracted."
-    k ""
+    k "我...算了，我们分心了。"
 
 # game/ch1.rpy:456
 translate schinese wesmeetinggrass_d0272b00:
 
     # w "So, the Dick. Did you find it?"
-    w ""
+    w "那，那只假屌——你找到了吗？"
 
 # game/ch1.rpy:457
 translate schinese wesmeetinggrass_797f3116:
 
     # k "Shit, yeah—"
-    k ""
+    k "啊，肯定是——"
 
 # game/ch1.rpy:459
 translate schinese wesmeetinggrass_84badc17:
 
     # "Why in the world would you bring this up with a guy you just met?"
-    ""
+    "话说到底是为什么你会和一个刚碰面的人说起这个？"
 
 # game/ch1.rpy:460
 translate schinese wesmeetinggrass_0f16f018:
 
     # "Clown cocks? Are you kidding me? Honk honk, bitch."
-    ""
+    "鸭子小丑？开玩笑的吧，收收味儿。"
 
 # game/ch1.rpy:461
 translate schinese wesmeetinggrass_b7b5d0f2:
 
     # "The only clown here is you."
-    ""
+    "你就是唯一的小丑。"
 
 # game/ch1.rpy:462
 translate schinese wesmeetinggrass_8ddb473e:
 
     # "Sufficiently humbled, you wordlessly turn towards your bag."
-    ""
+    "你无言地转向了你的背包。"
 
 # game/ch1.rpy:465
 translate schinese bagdick_b41a8733:
 
     # "You pull the Dick from your backpack. Its structural integrity is intact, but there's clearly a streak of black where it scraped against a textbook or an ancient pack of gum in the depths of your bag."
-    ""
+    "你从背包里扒拉出了鸟，它结构完好，但有一道黑印——也许是不小心刮到了什么笔记本或者一包陈年口香糖。"
 
 # game/ch1.rpy:466
 translate schinese bagdick_0e358a34:
 
     # k "Oh."
-    k ""
+    k "噢。"
 
 # game/ch1.rpy:468
 translate schinese bagdick_bccb624c:
 
     # w "Yeah."
-    w ""
+    w "啊。"
 
 # game/ch1.rpy:469
 translate schinese bagdick_cb380f79:
 
     # k "We can fix this, right?"
-    k ""
+    k "我们能清掉的，对吧？"
 
 # game/ch1.rpy:470
 translate schinese bagdick_e8107d58:
 
     # "You lick your thumb and rub at the blotch. No luck."
-    ""
+    "你用沾了唾液的拇指擦了擦——没用。"
 
 # game/ch1.rpy:472
 translate schinese bagdick_66463091:
 
     # w "Here, let me see."
-    w ""
+    w "给我看看。"
 
 # game/ch1.rpy:473
 translate schinese bagdick_89fbc44d:
 
     # "Wes takes the Dick and spits on it."
-    ""
+    "Wes朝它啐了一口。"
 
 # game/ch1.rpy:474
 translate schinese bagdick_af0ad7d0:
 
     # "Oh, okay. Sure, why not?"
-    ""
+    "啊，这，好吧。"
 
 # game/ch1.rpy:475
 translate schinese bagdick_d708004e:
 
     # "He's definitely trying to rub something out of it. The pad of his finger swipes across the top of the head as he jerks the dildo."
-    ""
+    "反正他肯定在擦什么东西。他的肉垫在鸟头上划来划去，好像在撸动这个东西。"
 
 # game/ch1.rpy:476
 translate schinese bagdick_cebc127b:
 
     # "Yeah. Okay, you definitely need to get laid."
-    ""
+    "好吧，放轻松就好。"
 
 # game/ch1.rpy:477
 translate schinese bagdick_a6f43994:
 
     # w "Probably need soap for this bad boy."
-    w ""
+    w "可能得用香皂才行了。"
 
 # game/ch1.rpy:478
 translate schinese bagdick_60a745cd:
 
     # "He hands it back to you, holding it by the balls so the shaft wobbles in the air. He extends his other hand to help you up."
-    ""
+    "他握着鸟蛋还你鸟身，鸟身在空中抖了几下——他用另一只手扶你起来。"
 
 # game/ch1.rpy:479
 translate schinese bagdick_ac8ec529:
 
-    # "You're less using him for leverage as much as Wes is singlehandedly lifting you to your feet, causing his biceps to bulge under his sleeves."
-    ""
+    # "You're less using him for leverage as much as Wes is singlehandedly lifting you to your feet, causing his biceps to bulge under his sleeves.-"
+    "你没有用力，而是他把你拉了起来，显出他衣袖之下的肱二头肌。"
 
 # game/ch1.rpy:482
 translate schinese bagdick_62ab4bc0:
 
     # ac "You could probably do the same with him, even if he has a lot of inches and even more pounds on you. Probably. Maybe."
-    ac ""
+    ac "虽然他比你重也比你高，但你可能也可以拉起他。只是可能，可能而已。"
 
 # game/ch1.rpy:485
 translate schinese bagdick_9599601f:
 
     # "You're not having flashbacks to being shoved into lockers in high school, but you're also not {i}not{/i} feeling a little claustrophobic right now."
-    ""
+    "你没有回想起高中被困在储物室的场景，但你现在已经有一点幽闭恐惧症的感觉了。"
 
 # game/ch1.rpy:489
 translate schinese bagdick_dfd97ed1:
 
     # "Wes walks with you to the convenience store on campus. You had suggested taking the dildo to a bathroom, but Wes insisted that you needed something stronger."
-    ""
+    "Wes和你一起走向大学的便利店。你本只想带鸟去浴室洗一洗，但Wes坚持要来点更猛的东西才行。"
 
 # game/ch1.rpy:493
 translate schinese bagdick_e1cdd68d:
 
     # "The bell chime tinkles as you enter. You're blasted by the smell of refrigerated sandwiches and overripe fruit."
-    ""
+    "进门时，迎兵器叮了一声，商店里冰冻三明治和过熟果蔬的气味扑面而来。"
 
 # game/ch1.rpy:494
 translate schinese bagdick_be5cd151:
 
     # "Wes guides you over to the household items aisle where he picks up a bottle of heavy-duty dishwashing liquid."
-    ""
+    "Wes引你去了一个家具用品区，取了一瓶耐用的洗洁精。"
 
 # game/ch1.rpy:496
 translate schinese bagdick_a45345b2:
 
     # w "Try this."
-    w ""
+    w "试试这个。"
 
 # game/ch1.rpy:497
 translate schinese bagdick_de9b6878:
 
     # k "What, Liftall? What makes this brand different from Green-o or Adverse?"
-    k ""
+    k "什，Liftall？为什么不是Green-o或者Adverse？"
 
 # game/ch1.rpy:500
 translate schinese bagdick_c7ce0ca1:
 
     # kn "Actually, Liftall and Green-o are owned by the same parent company, Liftall Enterprises. Liftall also produces laundry detergent, lotion, and shampoo, among other products."
-    kn ""
+    kn "其实，Liftall和Green-o是一家公司的——Liftall公司。这家公司同样生产洗衣粉、护肤乳、洗发水之类的东西。"
 
 # game/ch1.rpy:501
 translate schinese bagdick_9f4ce9de:
 
     # w "Dunno. Liftall pretty much already owns both of them. C'mon."
-    w ""
+    w "我不知道，Liftall可能两个的优点都有？来付款吧。"
 
 # game/ch1.rpy:502
 translate schinese bagdick_f4755d33:
 
     # "He tosses you the bottle."
-    ""
+    "他扔来这瓶洗洁精。"
 
 # game/ch1.rpy:505
 translate schinese bagdick_beafbaa0:
 
     # "You nearly fumble the catch, but recover just in time. You successfully manage not to loudly drop a bottle of dishwashing detergent in the middle of the store."
-    ""
+    "你差点就完美接住了，但并没有因此引起很大的声音。"
 
 # game/ch1.rpy:510
 translate schinese bagdick_3af9f499:
 
     # ac "With your incredible, superhuman dexterity, you manage to easily catch a bottle of dishwashing detergent in one hand."
-    ac ""
+    ac "你成功凭你优异过人的敏捷单手接住了洗洁精。"
 
 # game/ch1.rpy:512
 translate schinese bagdick_7a97eed2:
 
     # "Wes is right behind you as you make your way to the cash register, mounds of snacks overflowing from his arms."
-    ""
+    "去收银台的路上，Wes一直跟着你。零食挤满了他交叉的手臂。"
 
 # game/ch1.rpy:513
 translate schinese bagdick_920a6f39:
 
     # "There's a bored-looking student at the register. You hand her your student ID and credit card."
-    ""
+    "一位无趣的学生正站在收银台后，你将你的学生证和信用卡都递给了她。"
 
 # game/ch1.rpy:514
 translate schinese bagdick_f358a361:
 
     # csr "Um..."
-    csr ""
+    csr "嗯..."
 
 # game/ch1.rpy:515
 translate schinese bagdick_18c07f92:
 
     # "She furrows her brow and taps at the screen a couple of times."
-    ""
+    "她皱着眉，再在电脑屏幕上点了几下。"
 
 # game/ch1.rpy:516
 translate schinese bagdick_7ebdca11:
 
     # csr "It says here your card is declined."
-    csr ""
+    csr "屏幕显示您的卡被拒。"
 
 # game/ch1.rpy:517
 translate schinese bagdick_5f2d7d92:
 
     # k "Oh, if you add the two-percent student discount..."
-    k ""
+    k "呃，试试加上20%的学生折扣..."
 
 # game/ch1.rpy:518
 translate schinese bagdick_e8273faf:
 
     # csr "No, your student ID is declined too. Neither of them work."
-    csr ""
+    csr "不行，您的学生证也不行。"
 
 # game/ch1.rpy:519
 translate schinese bagdick_f22a9d7b:
 
     # csr "It says here you're an alumni...?"
-    csr ""
+    csr "这里显示您已经毕业了...?"
 
 # game/ch1.rpy:520
 translate schinese bagdick_747e2783:
 
     # "Wes raises an eyebrow. You lean in closer over the counter."
-    ""
+    "Wes抬了抬眉毛，你弯腰靠近了柜台。"
 
 # game/ch1.rpy:521
 translate schinese bagdick_fa6738f3:
 
     # k "Yeah, I was supposed to graduate last semester, but I {i}didn't{/i}. That's why I'm here. Right now."
-    k ""
+    k "我本该在上学期就毕业的，但我{i}没有{/i}。这就是为什么我现在还在这里。"
 
 # game/ch1.rpy:522
 translate schinese bagdick_1e5be5fc:
 
     # "She shrugs. Not her problem."
-    ""
+    "她耸着肩，这不是她的问题。"
 
 # game/ch1.rpy:523
 translate schinese bagdick_decdee20:
 
     # csr "The machine gets all its information from the registrar. It says what it says."
-    csr ""
+    csr "电脑读取教导处的信息，显示教导处的说法。"
 
 # game/ch1.rpy:524
 translate schinese bagdick_e70fca42:
 
     # "Someone gently elbows you aside from behind."
-    ""
+    "有人在你背后轻轻用肘碰了你一下。"
 
 # game/ch1.rpy:526
 translate schinese bagdick_2e986510:
 
     # "Wes pushes past you with his bags of snacks — parmesan and jalapeño crisps, packs of almonds, and peanut butter cups — and dumps his haul on the counter."
-    ""
+    "Wes推着你向前走到了收银台处，放下了他的零食，他的脏物——帕尔马干酪和jalapeño薯片，袋装杏仁和花生酱杯。"
 
 # game/ch1.rpy:527
 translate schinese bagdick_e698e8aa:
 
     # w "I'll take the soap too."
-    w ""
+    w "还有那个洗洁精。"
 
 # game/ch1.rpy:528
 translate schinese bagdick_293c8a1e:
 
     # "He pulls out several crisp twenties and hands them to the cashier."
-    ""
+    "他拿出崭新的20元递给收银员。"
 
 # game/ch1.rpy:529
 translate schinese bagdick_b2a8192d:
 
     # w "That should be enough, right?"
-    w ""
+    w "这些够了吗？"
 
 # game/ch1.rpy:530
 translate schinese bagdick_3d111ce9:
 
     # "The cashier blinks in surprise, nods, and Wes scoops up his goods and jerks his head towards the soap."
-    ""
+    "收银员惊讶地眨着眼，点了点头，Wes再次抱起他的零食，用他的头指了指洗洁精的方向。"
 
 # game/ch1.rpy:531
 translate schinese bagdick_22786bfc:
 
     # k "Uh, thanks."
-    k ""
+    k "呃，谢了。"
 
 # game/ch1.rpy:532
 translate schinese bagdick_fc0349f7:
 
     # "Wes waits for his change — the university store is overpriced, but not by {i}that{/i} much — and is already heading out the door by the time you've recovered."
-    ""
+    "Wes等着零钱——校内商店里的东西确实有溢价，但不至于{i}那么{/i}多——等你反应过来时，他已经准备出门了。"
 
 # game/ch1.rpy:534
 translate schinese bagdick_974a3677:
 
     # "You awkwardly nod to the cashier as you take extra-long strides to catch up."
-    ""
+    "你朝收银员尴尬地点点头，接着几个超大跨步才追上了Wes。"
 
 # game/ch1.rpy:536
 translate schinese bagdick_cc059731:
 
     # k "Hey, I can pay you back for the soap if you want—"
-    k ""
+    k "嘿，我之后把这钱还给——"
 
 # game/ch1.rpy:538
 translate schinese bagdick_e66ea9e5:
 
     # w "It's just one thing of dish detergent, man. It's, what, twenty dollars?"
-    w ""
+    w "只是什么洗洁精，哥们。它只要，大概，20美元？"
 
 # game/ch1.rpy:539
 translate schinese bagdick_9c7c24fa:
 
     # "It is definitely not twenty dollars."
-    ""
+    "那肯定没有20美元。"
 
 # game/ch1.rpy:542
 translate schinese bagdick_9e76c84a:
 
     # kn "It's closer to 5.25 with tax."
     kn "加上税后大约是5美刀25美分。"
-
+##鱼：合税大概5.25美元。
 # game/ch1.rpy:544
 translate schinese bagdick_f29b1058:
 
     # w "So. Where are you headed? Need a lift?"
     w "那，你要去哪儿？要我载你一程吗？"
-
+##鱼：所以，你要去哪里？搭个顺风车吗？
 # game/ch1.rpy:547
 translate schinese bagdick_d10bc780:
 
     # "What's up with this guy? What does he want from you?"
     "这家伙怎么回事？他想从你这里得到什么？"
-
+##鱼：这家伙怎么了？他想干些什么？
 # game/ch1.rpy:551
 translate schinese bagdick_fdedc0a0:
 
     # mf "There should be nothing surprising about guys looking out for each other."
     mf "男人之间守望相助应该不足为奇。"
-
+##鱼：朋友间互相关心没什么的。
 # game/ch1.rpy:552
 translate schinese bagdick_a40e541e:
 
     # mf "In fact, the world would be a better place if men saw themselves as beneficiaires of the dismantling of toxic homosocial competition."
     mf "男性能意识到自身能在同性竞争的解体中获益，对任何人来说都是好事。"
-
+##鱼：其实，如果人们都把自己视作瓦解有害同性竞争的受益者，世界将变得更美好。
 # game/ch1.rpy:553
 translate schinese bagdick_a20cefa7:
 
@@ -2039,19 +2039,19 @@ translate schinese bagdick_8327cc7b:
 
     # mf "Which is to say, he's probably just being nice."
     mf "也就是说，他大概只是人比较好而已。"
-
+##鱼：所以其实，他可能就是在对你好而已。
 # game/ch1.rpy:557
 translate schinese bagdick_c268577d:
 
     # ac "Nothing wrong with a broseph being bonafidely bodacious."
     ac "一个真正的弟兄无论对谁都是赤诚相待的。"
-
+##鱼：大兄弟胆子大一点也没有问题。
 # game/ch1.rpy:558
 translate schinese bagdick_9e6c75e5:
 
     # ac "Just a dude that's indubitably diplomatic. A handsome and humane homie. A cordial cousin."
     ac "他是一个老练、慷慨、热心肠的伙计。"
-
+##鱼：只是一个擅长交涉的伙计，一位英俊谦逊的同学，一名热心的同乡人。
 # game/ch1.rpy:559
 translate schinese bagdick_a20cefa7_1:
 
@@ -2063,19 +2063,19 @@ translate schinese bagdick_c19ca8c2:
 
     # ac "He's probably just a cool guy."
     ac "我看这家伙还不赖。"
-
+##鱼：他可能只是比较酷。
 # game/ch1.rpy:563
 translate schinese bagdick_2a4f5323:
 
     # kn "Everyone's a rational actor looking out for himself."
     kn "每个人都是一个用理性在他者身上寻觅自我的演员。"
-
+##鱼：大家都只是随时为自己着想的理性演员。
 # game/ch1.rpy:564
 translate schinese bagdick_a5471bea:
 
     # kn "It's survival of the fittest, and this guy must think he can get something out of you. Like one of those bugs that lays eggs in another bug."
-    kn "这是生存之道，而这家伙估计是认为他能从你这里得到什么，就像那些在其它物种身上产卵的"昆虫。
-
+    kn "这是生存之道，而这家伙估计是认为他能从你这里得到什么，就像那些在其它物种身上产卵的昆虫。"
+##鱼：这是最符合生存之道的思路，他肯定是想从你身上拿点什么，就像一只虫子正往另一只虫子身上产卵。
 # game/ch1.rpy:565
 translate schinese bagdick_a20cefa7_2:
 
@@ -2087,25 +2087,25 @@ translate schinese bagdick_292bf0cd:
 
     # kn "Or he's just being nice. Who can say."
     kn "或者他只是比较友好而已，谁能说得出呢。"
-
+##鱼：或者他只是想对我好。谁知道呢。
 # game/ch1.rpy:569
 translate schinese bagdick_f491e49a:
 
     # k "Yeah, I could use a ride. Thanks."
     k "好啊，我可以坐一程，谢了。"
-
+##鱼：好，谢了。
 # game/ch1.rpy:570
 translate schinese bagdick_40b0b56b:
 
     # k "I should probably stop by the registrar and get my student status fixed."
     k "我得去登记处修复一下我的学籍卡。"
-
+##鱼：我可能要去一趟教导处，修复一下我学生的身份。
 # game/ch1.rpy:575
 translate schinese registrar_1459d989:
 
     # "Wes' sleek, black electric car is aggressively ostentatious in its subtlety."
     "Wes的黑色电能车气势铺张，卖弄着她精巧的流线型设计。"
-
+##鱼：Wes时髦的黑电动汽车精致万分。
 # game/ch1.rpy:577 ##鱼结束
 translate schinese registrar_ac45fdf4:
 
