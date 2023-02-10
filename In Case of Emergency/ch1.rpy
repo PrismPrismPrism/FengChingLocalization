@@ -2002,937 +2002,935 @@ translate schinese bagdick_9c7c24fa:
 translate schinese bagdick_9e76c84a:
 
     # kn "It's closer to 5.25 with tax."
-    kn ""
+    kn "加上税后大约是5美刀25美分。"
 
 # game/ch1.rpy:544
 translate schinese bagdick_f29b1058:
 
     # w "So. Where are you headed? Need a lift?"
-    w ""
+    w "那，你要去哪儿？要我载你一程吗？"
 
 # game/ch1.rpy:547
 translate schinese bagdick_d10bc780:
 
     # "What's up with this guy? What does he want from you?"
-    ""
+    "这家伙怎么回事？他想从你这里得到什么？"
 
 # game/ch1.rpy:551
 translate schinese bagdick_fdedc0a0:
 
     # mf "There should be nothing surprising about guys looking out for each other."
-    mf ""
+    mf "男人之间守望相助应该不足为奇。"
 
 # game/ch1.rpy:552
 translate schinese bagdick_a40e541e:
 
     # mf "In fact, the world would be a better place if men saw themselves as beneficiaires of the dismantling of toxic homosocial competition."
-    mf ""
+    mf "男性能意识到自身能在同性竞争的解体中获益，对任何人来说都是好事。"
 
 # game/ch1.rpy:553
 translate schinese bagdick_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/ch1.rpy:554
 translate schinese bagdick_8327cc7b:
 
     # mf "Which is to say, he's probably just being nice."
-    mf ""
+    mf "也就是说，他大概只是人比较好而已。"
 
 # game/ch1.rpy:557
 translate schinese bagdick_c268577d:
 
     # ac "Nothing wrong with a broseph being bonafidely bodacious."
-    ac ""
+    ac "一个真正的弟兄无论对谁都是赤诚相待的。"
 
 # game/ch1.rpy:558
 translate schinese bagdick_9e6c75e5:
 
     # ac "Just a dude that's indubitably diplomatic. A handsome and humane homie. A cordial cousin."
-    ac ""
+    ac "他是一个老练、慷慨、热心肠的伙计。"
 
 # game/ch1.rpy:559
 translate schinese bagdick_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/ch1.rpy:560
 translate schinese bagdick_c19ca8c2:
 
     # ac "He's probably just a cool guy."
-    ac ""
+    ac "我看这家伙还不赖。"
 
 # game/ch1.rpy:563
 translate schinese bagdick_2a4f5323:
 
     # kn "Everyone's a rational actor looking out for himself."
-    kn ""
+    kn "每个人都是一个用理性在他者身上寻觅自我的演员。"
 
 # game/ch1.rpy:564
 translate schinese bagdick_a5471bea:
 
     # kn "It's survival of the fittest, and this guy must think he can get something out of you. Like one of those bugs that lays eggs in another bug."
-    kn ""
+    kn "这是生存之道，而这家伙估计是认为他能从你这里得到什么，就像那些在其它物种身上产卵的"昆虫。
 
 # game/ch1.rpy:565
 translate schinese bagdick_a20cefa7_2:
 
     # "..."
-    ""
+    "..."
 
 # game/ch1.rpy:566
 translate schinese bagdick_292bf0cd:
 
     # kn "Or he's just being nice. Who can say."
-    kn ""
+    kn "或者他只是比较友好而已，谁能说得出呢。"
 
 # game/ch1.rpy:569
 translate schinese bagdick_f491e49a:
 
     # k "Yeah, I could use a ride. Thanks."
-    k ""
+    k "好啊，我可以坐一程，谢了。"
 
 # game/ch1.rpy:570
 translate schinese bagdick_40b0b56b:
 
     # k "I should probably stop by the registrar and get my student status fixed."
-    k ""
+    k "我得去登记处修复一下我的学籍卡。"
 
 # game/ch1.rpy:575
 translate schinese registrar_1459d989:
 
     # "Wes' sleek, black electric car is aggressively ostentatious in its subtlety."
-    ""
+    "Wes的黑色电能车气势铺张，卖弄着她精巧的流线型设计。"
 
 # game/ch1.rpy:577 ##鱼结束
 translate schinese registrar_ac45fdf4:
 
     # "He drops you off just outside the administrative building. You can hear arguing as you approach."
-    ""
+    "他把你在行政楼外放下。你在靠近时听见里面有争吵声。"
 
 # game/ch1.rpy:581
 translate schinese registrar_cc04a3d6:
 
     # l "—so, if you could just talk to Dave for me—"
-    l ""
+    l "——所以，你能不能帮我和Dave说一下——"
 
 # game/ch1.rpy:582
 translate schinese registrar_0ea55862:
 
     # adm "No, Luke, I am not going to ask Professor Gaventhorn to bump your A- to an A."
-    adm ""
+    adm "不，Luke，我不会让Gaventhorn教授把你的A-升为A的。"
 
 # game/ch1.rpy:583
 translate schinese registrar_ff6da999:
 
     # l "I'm not saying you should {i}ask{/i} him—"
-    l ""
+    l "我不是要你{i}询问{/i} 他—"
 
 # game/ch1.rpy:584
 translate schinese registrar_8bdad6b4:
 
     # adm "—I'm not going to {i}tell{/i} the professor to raise your grade."
-    adm ""
+    adm "—我是不会替你{i}转告{/i}教授的。"
 
 # game/ch1.rpy:585
 translate schinese registrar_d05efe0e:
 
     # adm "We can't do that here! You have to talk to him yourself."
-    adm ""
+    adm "我们在这里做不到那种事！你要自己去和他说。"
 
 # game/ch1.rpy:586
 translate schinese registrar_8ba79f17:
 
     # l surprisen "I {i}told{/i} you, Dave hates my guts! He's threatened by my intellect, I swear."
-    l surprisen ""
+    l surprisen "我和你{i}说过{/i}了，Dave看不惯我的胆识！他认为他的地位受到了我的才智的威胁，我发誓。"
 
 # game/ch1.rpy:588
 translate schinese registrar_65402021:
 
     # "Luke's ears perk up as he sees you approach."
-    ""
+    "Luke看见你靠近，耳朵顿时挺立起来。"
 
 # game/ch1.rpy:589
 translate schinese registrar_c2e3de8c:
 
     # l "Kieran! Good to see you. Bureaucracy, am I right?"
-    l ""
+    l "Kieran！很高兴遇见你，这里充斥着官僚主义，你说是吧？"
 
 # game/ch1.rpy:593
 translate schinese registrar_b02a594e:
 
     # k "Tell me about it. They couldn't give me a student discount at the store, because my status was marked wrong."
-    k ""
+    k "说来听听。他们没有给我在商店算上学生优惠，因为我的电子学生证在扫描时显示错误了。"
 
 # game/ch1.rpy:594
 translate schinese registrar_19c48878:
 
     # l surprisen "Not you too. Can the system get {i}anything{/i} right?"
-    l surprisen ""
+    l surprisen "看来你也遇见了相同的情况。体制有做对过{i}任何{/i}正确的事吗？"
 
 # game/ch1.rpy:595
-translate schinese registrar_d3033ae1:
+translate schinese registrar_d3033，ae1:
 
     # l neutral "Take me for example. I was supposed to get an A in this class, but this guy, Dave—"
-    l neutral ""
+    l neutral "就拿我来说，我本该在这门课上拿到一个A，若不是Dave——"
 
 # game/ch1.rpy:597
 translate schinese registrar_39d4292e:
 
     # k "I think it's actually pretty reasonable."
-    k ""
+    k "我认为这实际上还是挺合理的。"
 
 # game/ch1.rpy:598
 translate schinese registrar_47a43e57:
 
     # "Luke either deliberately misunderstands you or isn't listening."
-    ""
+    "Luke不像是在故意曲解你的意思，也不像是把你的话当成了耳旁风。"
 
 # game/ch1.rpy:599
 translate schinese registrar_40b12b5b:
 
     # l surprisen "That's what I'm saying! I can't believe that Dave would—"
-    l surprisen ""
+    l surprisen "这就是我要说的！我不敢相信Dave居然会——"
 
 # game/ch1.rpy:601
 translate schinese registrar_5949a35c:
 
     # k "I don't think I have enough information to come up with an informed opinion."
-    k ""
+    k "我不认为我有足够的信息来提出一个明智的观点。"
 
 # game/ch1.rpy:602
 translate schinese registrar_25ac467c:
 
     # l medsmile "Come on, man. Opinions are like novelty hot sauce. If they're not unreasonably spicy and don't cause people to shit their pants, they're useless."
-    l medsmile ""
+    l medsmile "嘿伙计，别这样。观点就和新奇的辣酱一样，如果不能把人辣出屎来，那就是无用的。"
 
 # game/ch1.rpy:603
 translate schinese registrar_3cc9f61a:
 
     # l surprisen "You know who didn't understand that? My old professor. That's why Dave—"
-    l surprisen ""
+    l surprisen "你知道是谁不清楚这一点吗？我的老教授。这就是为什么Dave——"
 
 # game/ch1.rpy:604
 translate schinese registrar_bc96934a:
 
     # adm "—Professor Gaventhorn—"
-    adm ""
+    adm "——Gaventhorn教授——"
 
 # game/ch1.rpy:605
 translate schinese registrar_f753e4bc:
 
     # l "—put me down for an A-!"
-    l ""
+    l "——把我的等第降到了A-!"
 
 # game/ch1.rpy:609
 translate schinese registrar_b4b18306:
 
     # ac "Oh. I've figured it out. This is sports, but for nerds."
-    ac ""
+    ac "噢，我懂了，这就是书呆子的运动。"
 
 # game/ch1.rpy:612
 translate schinese registrar_4b782d82:
 
     # k "It could be worse."
-    k ""
+    k "这还可以变得更糟。"
 
 # game/ch1.rpy:616
 translate schinese registrar_bfccd383:
 
     # "You shake your head in sympathy. Terrible."
-    ""
+    "你同情地摇了摇头。太坏了。"
 
 # game/ch1.rpy:617
 translate schinese registrar_5a9606db:
 
     # l "Look at my grades! All A's, and one aberrant A-?"
-    l ""
+    l "你就看我的学科评分，门门都是A，只有这一门是A-？"
 
 # game/ch1.rpy:618
 translate schinese registrar_a39eddc3:
 
     # l "What seems more likely: that all the other A's are mistakes, or that the mistake is the one outlier?"
-    l ""
+    l "哪个看起来更有可能：其它所有的A都是错误的，还是只有这个异常值是错误的？"
 
 # game/ch1.rpy:619
 translate schinese registrar_c92cd9f7:
 
     # adm "I think it's most likely that you just didn't do so great in one class. Everyone makes mistakes."
-    adm ""
+    adm "我想最有可能都是：你只是在这一门课当中发挥的没那么好。所有人都是会犯错的。"
 
 # game/ch1.rpy:621
 translate schinese registrar_efe21809:
 
     # n_l "Luke looks grossly offended, either by the concept of making a mistake or his inclusion within the category of 'everyone.'"
-    n_l ""
+    n_l "Luke看起来像是被恶心到了，可能是因为被迫接受犯错这个概念，也有可能是被涵盖进“所有人”这个概念的缘故。"
 
 # game/ch1.rpy:629
 translate schinese registrar_bc0aa775:
 
     # k "I mean, I had a perfect GPA."
-    k ""
+    k "我是说，我也曾有过很漂亮的平均绩点。"
 
 # game/ch1.rpy:631
 translate schinese registrar_bb840121:
 
     # "The admin grimaces. Luke's eyebrows raise."
-    ""
+    "管理员做了个鬼脸。Luke扬起了眉毛。"
 
 # game/ch1.rpy:632
 translate schinese registrar_2f95dd9e:
 
     # l "'Had'?"
-    l ""
+    l "“曾有过”？"
 
 # game/ch1.rpy:633
 translate schinese registrar_5bb2754c:
 
     # k "Yeah. But then I failed a class, so here I am, making up the life skills requirement over the summer. Without student status for a discount."
-    k ""
+    k "对。但后来我挂了一门课，所以我现在还在这里，上一整个夏天的生活技能课，还没有能抵折扣的学生证。"
 
 # game/ch1.rpy:634
 translate schinese registrar_89c887a3:
 
     # "There's an unreadable expression on Luke's face."
-    ""
+    "Luke显现出一副令人揣摩不透的表情。"
 
 # game/ch1.rpy:637
 translate schinese registrar_42d58922:
 
     # kn "It's definitely disdain."
-    kn ""
+    kn "那绝对是鄙视。"
 
 # game/ch1.rpy:638
 translate schinese registrar_e27e6abb:
 
     # l neutral "What happened to you? Did a professor set out to screw you over, too?"
-    l neutral ""
+    l neutral "你遇到什么事了？是不是也有个教授想整你?"
 
 # game/ch1.rpy:639
 translate schinese registrar_4b67ee2d:
 
     # k "No, actually—"
-    k ""
+    k "实际上，并没有——"
 
 # game/ch1.rpy:640
 translate schinese registrar_46807e33:
 
     # l "He hated that you were too good for him."
-    l ""
+    l "他恨你因为你在他看来表现得过于优秀了。"
 
 # game/ch1.rpy:641
 translate schinese registrar_fadae5ef:
 
     # k "Well—"
-    k ""
+    k "其实——"
 
 # game/ch1.rpy:642
 translate schinese registrar_b6ef4dc4:
 
     # l "He was compensating for something missing in his own life by going on a power trip."
-    l ""
+    l "他试图通过滥用权力来从你身上弥补自己人生中的缺失。"
 
 # game/ch1.rpy:643
 translate schinese registrar_f9bbb83f:
 
     # k "Actually—"
-    k ""
+    k "实际上——"
 
 # game/ch1.rpy:644
 translate schinese registrar_316b8be7:
 
     # l "Actually..."
-    l ""
+    l "实际上……"
 
 # game/ch1.rpy:645
 translate schinese registrar_442bb61f:
 
     # k "—actually, my dad died."
-    k ""
+    k "——实际上，我的父亲去世了。"
 
 # game/ch1.rpy:647
 translate schinese registrar_eb913d1a:
 
     # "The office grows silent."
-    ""
+    "整个办公室沉默了。"
 
 # game/ch1.rpy:649
 translate schinese registrar_26926d72:
 
     # "The administrator becomes suddenly enthralled by her computer screen. She runs her thumb on the corner of the monitor to remove a smudge."
-    ""
+    "管理员的目光突然移向她的电脑屏幕。她用拇指在显示器的一角擦除一个污迹。"
 
 # game/ch1.rpy:651
 translate schinese registrar_7305e4f4:
 
     # l "Oh. My parents are divorced."
-    l ""
+    l "哦，我爸妈离婚了。"
 
 # game/ch1.rpy:654
 translate schinese registrar_49508c8d:
 
     # mf "He's trying to empathize with you. Maybe?"
-    mf ""
+    mf "他在试着与你共情，可能？"
 
 # game/ch1.rpy:655
 translate schinese registrar_829cb523:
 
     # k "Yeah. Mine too."
-    k ""
+    k "啊，我家也是。"
 
 # game/ch1.rpy:656
 translate schinese registrar_8dd58742:
 
     # "The air conditioning in this room is actually {i}really{/i} loud. In a back office, someone coughs. A toilet flushes just down the hall."
-    ""
+    "这个房间里的空调实际上{i}非常地{/i}吵。在后面的办公室里有人在咳嗽。走廊的另一头有马桶的冲水声。"
 
-# game/ch1.rpy:659
-translate schinese registrar_543bc44e:
-
-    # "Maybe it's for the best. No need to find out how much emotional labor you can extract from the people around you."
-    ""
+# "Maybe it's for the best. No need to find out how much emotional labor you can extract from the people around you."
+    "也许这样才是最好的。你并不需要去了解自己能从周围的人身上榨取多少感情。"
 
 # game/ch1.rpy:661
 translate schinese registrar_8f3c22d7:
 
     # "Clearly no one here is equipped to be honest with their feelings."
-    ""
+    "显然这里没有任何能够敞开心扉的人。"
 
 # game/ch1.rpy:664
 translate schinese registrar_471b21fa:
 
     # adm "So is there something—"
-    adm ""
+    adm "请问有什么——"
 
 # game/ch1.rpy:666
 translate schinese registrar_e3313b7a:
 
     # k "I need to fix my student status. It says I graduated, but I didn't."
-    k ""
+    k "我要修复一下我的学生证。它显示我已经毕业了，但我还没有毕业。"
 
 # game/ch1.rpy:667
 translate schinese registrar_01bc5a81:
 
     # "You can practically see her sag with relief. Something she can actually do."
-    ""
+    "你看得出她松了一口气。终于有在她职权范围内的事了。"
 
 # game/ch1.rpy:668
 translate schinese registrar_eeea833f:
 
     # adm "Of course. Do you have your diploma?"
-    adm ""
+    adm "当然。你带文凭了吗？"
 
 # game/ch1.rpy:669
 translate schinese registrar_317f81a5:
 
     # k "With me? Right now?"
-    k ""
+    k "我的文凭？现在就要吗？"
 
 # game/ch1.rpy:670
 translate schinese registrar_01f54d67:
 
     # k "No, because I didn't actually graduate."
-    k ""
+    k "不，我实际上还没有毕业。"
 
 # game/ch1.rpy:672
 translate schinese registrar_9b738cc2:
 
     # adm "Well, you'll need to return your diploma before I can make any changes."
-    adm ""
+    adm "嗯，但是在我做出任何修改之前，你要把你的文凭提交给我。"
 
 # game/ch1.rpy:673
 translate schinese registrar_a0ca057c:
 
     # k "Okay, but I don't have one."
-    k ""
+    k "好吧，但是我还没有得到文凭。"
 
 # game/ch1.rpy:674
 translate schinese registrar_66a3bd04:
 
     # adm "Hm. Well, I can print one for you. Then, once you return it, we can make the appropriate changes to your status."
-    adm ""
+    adm "额，那我可以帮你打印一份，然后我们就可以对你的学生证进行适当的调整。"
 
 # game/ch1.rpy:676
 translate schinese registrar_725eb5c4:
 
     # "You think you see Luke roll his eyes."
-    ""
+    "你似乎瞥见Luke翻了下白眼。"
 
 # game/ch1.rpy:677
 translate schinese registrar_89fc13cf:
 
     # k "So you need to print my non-existant diploma... so you can fix that it doesn't exist?"
-    k ""
+    k "所以你只需要帮我打印一张不存在的文凭……就能够解决它不存在的问题？"
 
 # game/ch1.rpy:678
 translate schinese registrar_90d53e04:
 
     # adm "Oh, it does exist. Just virtually. But you can't return a virtual diploma, so you'll need to print it first."
-    adm ""
+    adm "哦，它是存在的，只不过它还是虚拟的。但是你不能归还一份虚拟的文凭，所以你要先把它给打印出来。"
 
 # game/ch1.rpy:679
 translate schinese registrar_e8bdd340:
 
     # k "I — Okay. Let's print it, then."
-    k ""
+    k "我——好吧，那就打印吧。"
 
 # game/ch1.rpy:680
 translate schinese registrar_1c9f43c5:
 
     # adm "Great. Cash or check?"
-    adm ""
+    adm "好的。现金还是支票？"
 
 # game/ch1.rpy:681
 translate schinese registrar_1c540f24:
 
     # k "I'm sorry?"
-    k ""
+    k "嗯？"
 
 # game/ch1.rpy:682
 translate schinese registrar_5c9897cc:
 
     # adm "Cash or check? It'll be 50 dollars to print your diploma."
-    adm ""
+    adm " 是用现金还是支票支付？打印一张文凭要支付50刀。"
 
 # game/ch1.rpy:684
 translate schinese registrar_a89b7134:
 
     # "Luke snorts behind you. He mutters something that sounds like, 'Typical.'"
-    ""
+    "Luke在你身后哼了一声。似乎低声骂了句’‘真有你的。"
 
 # game/ch1.rpy:685
 translate schinese registrar_67eb84d5:
 
     # k "But I don't actually {i}need{/i} the diploma. I just need to return it to fix a mistake on my record."
-    k ""
+    k "可是我实际上不{i}需要{/i}这份文凭，我只要上交它然后修复我学生证上的错误记录。"
 
 # game/ch1.rpy:686
 translate schinese registrar_4efbcde5:
 
     # adm "Right. And you need to have the diploma in order to return it."
-    adm ""
+    adm "对。你要有一份文凭才能提交它。"
 
 # game/ch1.rpy:687
 translate schinese registrar_162385a2:
 
     # l "This logic seems airtight to me."
-    l ""
+    l "我竟无法反驳。"
 
 # game/ch1.rpy:688
 translate schinese registrar_99958398:
 
     # k "I don't have 50 dollars on me."
-    k ""
+    k "我现在身上没有50刀。"
 
 # game/ch1.rpy:689
 translate schinese registrar_402b1d0a:
 
     # adm "Well, you can check out our postgraduate career resources next door—"
-    adm ""
+    adm "那你可以到隔壁的研究生就业处去——"
 
 # game/ch1.rpy:690
 translate schinese registrar_901e7eed:
 
     # k "I haven't graduated—"
-    k ""
+    k " 可是我本科还没——"
 
 # game/ch1.rpy:691
 translate schinese registrar_2aa39dfe:
 
     # adm "—and see if there's a job posting you can apply for."
-    adm ""
+    adm "——看看有没有你可以应聘的工作。"
 
 # game/ch1.rpy:692
 translate schinese registrar_82091822:
 
     # k "..."
-    k ""
+    k "……"
 
 # game/ch1.rpy:693
 translate schinese registrar_df076e5a:
 
     # k "Okay. Yeah, sure. I'll do that."
-    k ""
+    k "好，行，我会的。"
 
 # game/ch1.rpy:695
 translate schinese registrar_96b1fc0a:
 
     # "Luke is hot on your heels as you exit the office."
-    ""
+    "Luke紧跟着你走出办公室。"
+
 
 # game/ch1.rpy:697
 translate schinese registrar_ea1250ab:
 
     # l "Yikes. Any more red tape, you could gift this school as an overwrapped holiday present."
-    l ""
+    l "哦呦，你要是能再整些红丝带的话，就可以把这学校包装成假期大礼包了。"
 
 # game/ch1.rpy:698
 translate schinese registrar_52815c57:
 
     # l "You know whose job you should take? The registrar's."
-    l ""
+    l "你知道该选啥工作吗？你可以顶替那个登记员。"
 
 # game/ch1.rpy:699
 translate schinese registrar_d265656c:
 
     # k "Pretty sure it requires a bachelor's."
-    k ""
+    k "那是需要本科学历的吧。"
 
 # game/ch1.rpy:700
 translate schinese registrar_0425af92:
 
     # l "Which you have, obviously."
-    l ""
+    l "很显然你学历是符合要求的。"
 
 # game/ch1.rpy:701
 translate schinese registrar_b86123e4:
 
     # k "Not until I pay 50 dollars."
-    k ""
+    k "等我付的起50刀再说吧。"
 
 # game/ch1.rpy:702
 translate schinese registrar_a53b176a:
 
     # l medsmile "True, true."
-    l medsmile ""
+    l medsmile "啊对对对"
 
 # game/ch1.rpy:703
 translate schinese registrar_da41a773:
 
     # "He shrugs it off like it's of no consequence."
-    ""
+    "他耸了耸肩，好像这无关紧要似的。"
 
 # game/ch1.rpy:704
 translate schinese registrar_8b151b2a:
 
     # l neutral "So, how's the Dick?"
-    l neutral ""
+    l neutral "话说，那根鸡巴现在还好吗"
 
 # game/ch1.rpy:707
 translate schinese registrar_9ea10aca:
 
     # k "It's fine. I have it with me."
-    k ""
+    k "它毫发无伤，我一直都随身带着。"
 
 # game/ch1.rpy:708
 translate schinese registrar_cdf92dee:
 
     # l "Good, good."
-    l ""
+    l "不错不错"
 
 # game/ch1.rpy:710
 translate schinese registrar_39a35727:
 
     # k "Not so great. I fell and scraped it up a bit."
-    k ""
+    k "不太好。我摔倒时它被刮了一道。"
 
 # game/ch1.rpy:711
 translate schinese registrar_804ca590:
 
     # l surprisen "Wow. Already?"
-    l surprisen ""
+    l surprisen "哇，已经出事啦？"
 
 # game/ch1.rpy:712
 translate schinese registrar_c054f675:
 
     # l medsmile "It's a good thing this course is a blow-off class, huh? I didn't need to take it, but I missed hanging out with Rom."
-    l medsmile ""
+    l medsmile "幸好这门课即便旷掉也没问题。不过即便我压根不需要出席，我还是会想念和Rom相处的时间。"
 
 # game/ch1.rpy:713
 translate schinese registrar_34a44015:
 
     # l "I've got a couple other courses I'm taking over the summer."
-    l ""
+    l "这个夏天我还有一些其它课程。"
 
 # game/ch1.rpy:714
 translate schinese registrar_8fa24ac8:
 
     # l neutral "This is my relaxing class."
-    l neutral ""
+    l neutral "这一门是用来放松的。"
 
 # game/ch1.rpy:715
 translate schinese registrar_337ceb65:
 
     # k "Well, this is the last requirement I'm missing, so I'm only taking this one."
-    k ""
+    k "对我来说这是我缺的最后一门必修，所以我选这门就够了。"
 
 # game/ch1.rpy:716
 translate schinese registrar_462525d1:
 
     # l "Could be a lot worse. At least you'll have time to work a job alongside classes."
-    l ""
+    l "那还好，至少你还有时间打工。"
 
 # game/ch1.rpy:717
 translate schinese registrar_3c031796:
 
     # "Luke stops in front of a piece of paper taped to the wall: 'NOW HIRING: REGISTRAR ASSISTANT INTERN (SUMMER STUDENTS ONLY)'"
-    ""
+    "Luke在墙上贴着的一张纸前面停了下来——｛b｝“诚聘：实习生助理（仅限暑期生）｛/b｝"
 
 # game/ch1.rpy:718
 translate schinese registrar_04c7788d:
 
     # l "Hey, look. This is perfect for you."
-    l ""
+    l "嘿，你看这个就挺适合你的。"
 
 # game/ch1.rpy:719
 translate schinese registrar_e1ad755d:
 
     # k "What's an assistant intern? Am I interning to be an assistant, or am I an assistant to an intern?"
-    k ""
+    k "助理实习（assistant intern）是什么？是作为一名助理实习，还是给实习生当助理？"
 
 # game/ch1.rpy:720
 translate schinese registrar_fa1a598a:
 
     # l surprisen "I don't know. Does it matter?"
-    l surprisen ""
+    l surprisen "我不清楚，这重要吗？"
 
 # game/ch1.rpy:721
 translate schinese registrar_caa5da4a:
 
     # k "I guess not. It says I need a reference letter, though."
-    k ""
+    k "我猜应该没问题。不过它上面要求要有推荐信。"
 
 # game/ch1.rpy:722
 translate schinese registrar_9a0ebd58:
 
     # l neutral "You know who you should ask? Rom."
-    l neutral ""
-
+    l neutral "你知道该找谁的对吧？可以找Rom。"
 # game/ch1.rpy:723
 translate schinese registrar_eef74ff7:
 
     # k "Rom?"
-    k ""
+    k "Rom？"
 
 # game/ch1.rpy:724
 translate schinese registrar_ef3d094f:
 
     # l "Yeah. Professor Abbet. You know."
-    l ""
+    l "对，Abbet教授，你知道的。"
 
 # game/ch1.rpy:725
 translate schinese registrar_9e9b5324:
 
     # l "I bet he's still holding office hours. If you run over, you can probably make it in time."
-    l ""
+    l "他现在估计还在办公时间。你跑快点应该还赶得上。"
 
 # game/ch1.rpy:726
 translate schinese registrar_492d160a:
 
     # l medsmile "You'll show that you're interested in his class, and that you're a hustler."
-    l medsmile ""
+    l medsmile "表现出对他的课很有兴趣的样子，说你是个愿意努把力的人。"
 
 # game/ch1.rpy:731
 translate schinese registrar_f6700aa6:
 
     # ac "Yeah, a man on the grind. Success is part luck, part talent, and all hustle. Dreaming is free; the hustle is not."
-    ac ""
+    ac "一个人辛苦工作，最终的成功有的来自于运气或天赋，但无论如何全都需要奋斗。做梦是自由的，但奋斗不是。"
 
 # game/ch1.rpy:734
 translate schinese registrar_8dc253ab:
 
     # mf "The hustle is a social construct meant to control the masses by generating dreams and justifying failure."
-    mf ""
+    mf "奋斗是一种社会建构，旨在通过生产梦想和辩护其中的失败来控制大众。"
 
 # game/ch1.rpy:737
 translate schinese registrar_bc45f0d0:
 
     # kn "He means that the professsor will think you're a hard worker. But you'd rather that he thought your talent comes to you effortlessly."
-    kn ""
+    kn "他是说教授会认为你是个地才，但你情愿让他认为你其实是个天才。"
 
 # game/ch1.rpy:739
 translate schinese registrar_7049edbe:
 
     # k "Show him that I'm a hustler?"
-    k ""
+    k "在他面前塑造出地才人设？"
 
 # game/ch1.rpy:740
 translate schinese registrar_46981ec9:
 
     # "Luke stares at you like you've asked him about something he said hours ago, and not the very last thing out of his mouth."
-    ""
+    "Luke表现得像是全然不记得他刚刚和你说了什么，仿佛距离那句建议传入你耳中已经过去了几小时。"
 
 # game/ch1.rpy:743
 translate schinese registrar_3206d131:
 
     # k "Sure, I could ask him for a reference."
-    k ""
+    k "好，那我去向他要介绍信了。"
 
 # game/ch1.rpy:748
 translate schinese redoubtone_0f84c5f5:
 
     # "Professor Abbet's office is in the basement of Redoubt Hall, tucked away at the very end of the hallway."
-    ""
+    "Abbet教授的办公室位于复疑厅的地下，深嵌在走廊尽头。"
 
 # game/ch1.rpy:749
 translate schinese redoubtone_7e0e73ab:
 
     # "Just outside his door is a dusty desk, the kind with a wooden L-shaped table attached to a flimsy plastic chair."
-    ""
+    "门外有张积着灰的桌子，L字形的，配着把轻薄的塑料椅。"
 
 # game/ch1.rpy:750
 translate schinese redoubtone_316feed6:
 
     # "It looks like no one has used it in ages."
-    ""
+    "看起来已经有几个世纪没有人碰过这张桌子了。"
+
 
 # game/ch1.rpy:751
 translate schinese redoubtone_3465b62f:
 
     # "Where the hallway ends, there's a single closed door with an unlit EXIT sign above it."
-    ""
+    "走廊的末端是一扇紧闭的门，上面的｛b｝出口｛/b｝标识是暗着的。"
 
 # game/ch1.rpy:752
 translate schinese redoubtone_d3b0bee6:
 
     # "Someone has taped a piece of paper to its left with the word 'NO' in permanent marker: 'NO EXIT.'"
-    ""
+    "标识的左边贴着张纸，纸上用记号笔写着｛b｝“没有”｛/b｝——｛b｝“没有出口”｛/b｝"
 
 # game/ch1.rpy:753
 translate schinese redoubtone_bd225685:
 
     # "Maybe it used to be a fire escape at some point, but you don't think anyone has done any escaping through it recently."
-    ""
+    "也许这曾经是一扇消防门，只不过近期不再有人要通过它逃生了。"
 
 # game/ch1.rpy:756
 translate schinese redoubtone_496d875a:
 
     # a "Kieran. It's good to see you. How was your first day of class?"
-    a ""
+    a "Kieran，很高兴看见你。第一天上课怎么样？"
 
 # game/ch1.rpy:757
 translate schinese redoubtone_d5e6e7a5:
 
     # "Professor Abbet nods when you enter."
-    ""
+    "Abbet教授在你进门时向你点了点头。"
 
 # game/ch1.rpy:758
 translate schinese redoubtone_adf46b37:
 
     # "He wasn't lying about his no emails rule. Unless he's hiding something under the mess of papers strewn about his desk, there's not a single electronic in sight."
-    ""
+    "他在课上的所言非虚，除非他在那些散落在桌面上的论文纸下还藏着些什么，你在这间办公室中看不到任何电子设备。"
 
 # game/ch1.rpy:759
 translate schinese redoubtone_51445cd2:
 
     # k "It was good, thanks."
-    k ""
+    k "我体验下来感觉很好，谢谢关照。"
 
 # game/ch1.rpy:760
 translate schinese redoubtone_f08dd8b0:
 
     # "Now is a good time to remember that you've never visited a professor's office in your four years at Corinth."
-    ""
+    "这真是个适合回顾你在Corinth大学至今从来没有进过教授的办公室的本科生涯的时刻。"
 
 # game/ch1.rpy:761
 translate schinese redoubtone_8845951b:
 
     # k "Um... nice place."
-    k ""
+    k "嗯...这里环境不错。"
 
 # game/ch1.rpy:762
 translate schinese redoubtone_714589f2:
 
     # "Every inch of the wallspace is covered in overflowing bookshelves."
-    ""
+    "这里的每一寸墙都被溢满了的书柜所覆盖。"
 
 # game/ch1.rpy:763
 translate schinese redoubtone_c4b73917:
 
     # "A floral-themed calendar from last year hangs by the window: 'March — Forget-Me-Nots.'"
-    ""
+    "去年的一个花卉主题的日历悬挂在床边：三月-勿忘我。"
 
 # game/ch1.rpy:764
 translate schinese redoubtone_bf74bb5b:
 
     # "It looks like he hasn't changed it in nearly five months."
-    ""
+    "看起来他已经有将近五个月没有更换过日历了。"
 
 # game/ch1.rpy:765
 translate schinese redoubtone_f9f99756:
 
     # "Also on his desk is a framed picture of him, a man, and two kids."
-    ""
+    "他的桌上有一个相框，装着他与另一个男人还有两个孩子的照片。"
 
 # game/ch1.rpy:766
 translate schinese redoubtone_b035f21c:
 
     # a "Thank you."
-    a ""
+    a "谢谢。"
 
 # game/ch1.rpy:767
 translate schinese redoubtone_82091822:
 
     # k "..."
-    k ""
+    k "......"
 
 # game/ch1.rpy:768
 translate schinese redoubtone_bb8e4b4e:
 
     # a "..."
-    a ""
+    a "......"
 
 # game/ch1.rpy:769
 translate schinese redoubtone_55bdd7ec:
 
     # k "So, I know you said that you didn't take emails..."
-    k ""
+    k "我还记得您说过您不收电子邮件......"
 
 # game/ch1.rpy:770
 translate schinese redoubtone_41911724:
 
     # a "I do not."
-    a ""
+    a "嗯，是的。"
 
 # game/ch1.rpy:771
 translate schinese redoubtone_70e49e8b:
 
     # k "So I came by to ask for a reference for a job I'm applying for."
-    k ""
+    k "所以我来这里向您申请一份求职推荐信。"
 
 # game/ch1.rpy:772
 translate schinese redoubtone_2c5404d6:
 
     # k "It's, uh, an assistant intern position at the registrar."
-    k ""
+    k "是一份，呃，在登记处做实习生助理的职位。"
 
 # game/ch1.rpy:773
 translate schinese redoubtone_3d53dd57:
 
     # a "Are you an intern to an assistant, or an assistant to an intern?"
-    a ""
+    a "你是作为一名助理实习，还是给实习生当助理？"
 
 # game/ch1.rpy:774
 translate schinese redoubtone_82e53e5b:
 
     # k "I'm not sure."
-    k ""
+    k "我不确定。"
 
 # game/ch1.rpy:775
 translate schinese redoubtone_bb8e4b4e_1:
 
     # a "..."
-    a ""
+    a "......"
 
 # game/ch1.rpy:776
 translate schinese redoubtone_82091822_1:
 
     # k "..."
-    k ""
+    k "......"
 
 # game/ch1.rpy:777
 translate schinese redoubtone_1db4d67e:
 
     # a "Okay. What do you want me to write in your letter?"
-    a ""
+    a "好吧，你想要我在推荐信里写什么？"
 
 # game/ch1.rpy:778
 translate schinese redoubtone_a57f99ba:
 
     # k "Uh, just something generic, I think. I guess I haven't been in your class very long."
-    k ""
+    k "呃，写一些笼统的评价就可以了，毕竟我在您这里听课的时间不长。"
 
 # game/ch1.rpy:779
 translate schinese redoubtone_e91efafe:
@@ -2944,73 +2942,73 @@ translate schinese redoubtone_e91efafe:
 translate schinese redoubtone_83d0550e:
 
     # "Hm. You're starting to think that the professor may not be the best person to speak to your self-starter attitude and tireless work ethic."
-    ""
+    "唔。你意识到教授可能不是谈论你积极主动的态度和不知疲倦的职业操守的最佳人选。"
 
 # game/ch1.rpy:781
 translate schinese redoubtone_eeaf58a5:
 
     # a "How is your object doing?"
-    a ""
+    a "你的物品还好吗？"
 
 # game/ch1.rpy:782
 translate schinese redoubtone_d968fe55:
 
     # k "Oh, the Di— I mean, my object?"
-    k ""
+    k "噢，那根——我是说，我的物品？"
 
 # game/ch1.rpy:785
 translate schinese redoubtone_124bb040:
 
     # k "Good. Average. I would say about the same as when I got it."
-    k ""
+    k "它很好，很安稳。就和我拿到的时候一模一样。"
 
 # game/ch1.rpy:787
 translate schinese redoubtone_2b244d38:
 
     # k "It sure is... an object."
-    k ""
+    k "它的确是一个......物体【对象】。"
 
 # game/ch1.rpy:788
 translate schinese redoubtone_0e8564de:
 
     # a "May I see it?"
-    a ""
+    a "我能看看它吗？"
 
 # game/ch1.rpy:791
 translate schinese redoubtone_825adbb6:
 
     # kn "{i}Can{/i} you, or {i}may{/i} you — oh, wait."
-    kn ""
+    kn "你是说{i}能不能{/i}，还是{i}可不可以{/i}——噢，等等。"
 
 # game/ch1.rpy:792
 translate schinese redoubtone_e68c679c:
 
     # "Grimacing, you reach into your backpack..."
-    ""
+    "你自认倒霉地将手伸进背包......"
 
 # game/ch1.rpy:795
 translate schinese redoubtone_fc0c2e7a:
 
     # c "Hi, Professor Abbet, are you—?"
-    c ""
+    c "Abbet教授，您好，请问您——？"
 
 # game/ch1.rpy:797
 translate schinese redoubtone_cc21130d:
 
     # "Cedric abruptly opens the door into the office. He freezes when he sees you."
-    ""
+    "此时，Cedric突然推门而入。他在看见你时怔住了片刻。"
 
 # game/ch1.rpy:798
 translate schinese redoubtone_67d481a7:
 
     # c "Oh, sorry. I can come back later."
-    c ""
+    c "啊，抱歉。我一会儿再来。"
 
 # game/ch1.rpy:799
 translate schinese redoubtone_83506545:
 
     # a "You can wait outside. I think there's a desk there."
-    a ""
+    a "你可以在外面等着，那里有张桌子。"
 
 # game/ch1.rpy:802
 translate schinese redoubtone_2e47f651:
